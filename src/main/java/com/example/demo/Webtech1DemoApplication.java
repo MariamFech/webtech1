@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Webtech1DemoApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(Webtech1DemoApplication.class, args);
 	}
 
